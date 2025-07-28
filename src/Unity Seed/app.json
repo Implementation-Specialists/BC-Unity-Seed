@@ -1,0 +1,33 @@
+{
+  "id": "e87415f6-1ef4-4e34-86b9-6465adbe6c60",
+  "name": "Unity Seed",
+  "publisher": "Implementation Specialists",
+  "version": "0.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "../Resources/ISLogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.2.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.2",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
